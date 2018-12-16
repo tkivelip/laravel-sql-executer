@@ -5,7 +5,6 @@ It uses Laravel's disk Feature, so it is possible to use remote filesystems, too
 
 This is an easy way to import, seed and transform data very quickly by writing
 just SQL statements to a file. 
-  
 
 ## Installation
 
@@ -54,7 +53,7 @@ Artisan::call('sql-executer:queue', [
 You can configure the commands by the following options.
 
 ##### On both commands:
-- `--disc=name` Name of the disk to use
+- `--disk=name` Name of the disk to use
 - `--sql-connection=name` Name of the SQL connection to use
 
 ##### On queue command:
