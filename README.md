@@ -1,3 +1,5 @@
+Find more laravel stuff on my new organization account [Laramate](https://github.com/Laramate)
+
 # Laravel SQL Executer
 
 This package allows you to execute SQL statements from files directly or queued. 
